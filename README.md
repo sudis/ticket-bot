@@ -19,7 +19,7 @@
 - Bitiş
 
 ## Başlamadan Önce
-> *Başlamadan önce bu bot GCommands Framework'unu kullanmakta. Normal DJS Handler'larından farklı olarak her yarattığınız komut birer `SLASH COMMAND` özelliği taşır. Bundan dolayı `OAuth/Scopes` bölümünden botu davet etmelisiniz.
+> *Başlamadan önce bu bot GCommands Framework'unu kullanmakta. Normal DJS Handler'larından farklı olarak her yarattığınız komut birer `SLASH COMMAND` özelliği taşır. Bundan dolayı `OAuth/Scopes` bölümünden botu davet etmelisiniz.*
 
 ![Scope ayarlanması.](https://cdn.discordapp.com/attachments/861924288118652958/862294514793316372/Zrzut_ekranu_2021-07-7_o_13.30.07.png)
 
