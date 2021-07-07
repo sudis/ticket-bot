@@ -3,6 +3,8 @@
 
 > **Discord'un Ratelimit** kurallarına önem göstermeniz gerekiyor. Botu kullanırken art arda buton işlemleri **yapmayın**. Bunun sebebi butonlara her tıkladığınızda butonun kanal işlemi gerçekleştirmesi. Yani Butona bastığınız zaman `ticket-20` olarak açılan kanal tekrar butona basıldığında `ticket-claimed-20` olarak değişecek. Bu değişmeye kanalın içerik bölümü de dahil. Bundan dolayı her yapılan iki eylemden sonra zaman geçmeli ve buna göre hareket edilmeli. Buna uyulmazsa kanal adları ve diğer özellikler **Ratelimit** engelinden dolayı değişmeyecek ve problem yaratacak. 
 
+**Hatalar olabilir bir günde yazdım. Projeyi farklı yapacaktım sonra fikir değiştirdim. Hatanın çok çıkması olası. Oturup düzeltin yahu onu da ben mi diyeyim.**
+
 ***Bu bot MySQL veri tabanını kullanıyor. MongoDB'ye geçirin diye yapılmadı. Buna göre kullanın.***
 
 ## İçerik
