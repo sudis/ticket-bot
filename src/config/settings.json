@@ -1,0 +1,44 @@
+{
+  "bot": {
+    "token": "",
+    "owners": [""],
+    "testers": [""],
+    "guildID": "",
+    "voiceChannel": "",
+    "status": ""
+  },
+  "colors": {
+    "panelEmbedColor": "",
+    "claimEmbedColor": "",
+    "welcomeEmbedColor": ""
+  },
+  "ticketSettings": {
+    "rooms": {
+      "panelChannel": "",
+      "ticketParent": "",
+      "archiveParent": ""
+    },
+    "auths": {
+      "moderatorRole": "",
+      "generalDepartment": "",
+      "problemDepartment": "",
+      "suggestionDepartment": ""
+    },
+    "ticketFeelings": {
+      "ticketStarting": "",
+      "starEmoji": "",
+      "generalHelpEmoji": "",
+      "bugHelpEmoji": "",
+      "suggestionHelpEmoji": "",
+      "whatEmoji": "",
+      "upvoteEmoji": "",
+      "donwvoteEmoji": ""
+    }
+  },
+  "mysql": {
+    "database": "",
+    "host": "",
+    "user": "",
+    "password": ""
+  }
+}
